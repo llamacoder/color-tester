@@ -1,0 +1,76 @@
+.navbar {
+  background-color: #52BFAB;
+  min-height: 70px;
+}
+
+#navbar-color-1 {
+  margin-top: 5px;
+  margin-left: 5px;
+  background-color: #52BFAB;
+  height:30px;
+  width: 40px;
+}
+
+#navbar-color-2 {
+  margin-top: 5px;
+  background-color: #ffa200;
+  height:30px;
+  width: 40px;
+}
+
+#navbar-color-3 {
+  margin-top: 5px;
+  background-color: #70608e;
+  height:30px;
+  width: 40px;
+}
+
+#navbar-color-4 {
+  margin-top: 5px;
+  margin-left: 5px;
+  background-color: #b8a09d;
+  height:30px;
+  width: 40px;
+}
+
+#navbar-color-5 {
+  margin-top: 5px;
+  background-color: #b33b1a;
+  height:30px;
+  width: 40px;
+}
+
+#navbar-color-6 {
+  margin-top: 5px;
+  background-color: #484043;
+  height:30px;
+  width: 40px;
+}
+
+.img-buttons {
+  float: right;
+  margin-right: 2px;
+  margin-top: 5px;
+  background-color: #484043;
+  height:30px;
+  width: 40px;
+}
+
+main {
+  margin-top: 0;
+  min-height: 900px;
+  background-image: url('./assets/bg8.jpg');
+  background-size: cover;
+  width: 100%;
+}
+
+.login-panel {
+  width: 300px;
+  min-width: 300px;
+  min-height: 300px;
+  background-color: wheat;
+  margin: auto;
+  margin-top: 200px;
+  opacity: 0.5;
+  border-radius: 20px;
+}
